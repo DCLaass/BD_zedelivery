@@ -6,4 +6,4 @@ Atividade: Projeto conceitual e logíco de banco de dados para o famoso aplicati
 
 
 ### <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Projeto Logíco do Banco de Dados:
-<img src="https://github.com/DCLaass/ZeDelivery/zedelivery (1).drawio.png "/>
+<img src="https://github.com/DCLaass/BD_zedelivery/blob/main/ZeDelivery/zedelivery (1).drawio.png "/>
